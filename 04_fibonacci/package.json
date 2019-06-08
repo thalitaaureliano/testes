@@ -1,0 +1,15 @@
+{
+  "name": "04_fibonacci",
+  "version": "1.0.0",
+  "description": "Produza uma função que receba como parâmetro um número e gere como resultado a sequência seguinte:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
